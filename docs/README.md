@@ -14,4 +14,4 @@ When that doesn't work, dig into Jekyll and Ruby documentation. :shrug:
 
 ## GitHub Pages
 
-GitHub pages automatically generates and hosts the static site from this directry. :smile:
+GitHub pages automatically generates and hosts the static site from this directory. :smile:
