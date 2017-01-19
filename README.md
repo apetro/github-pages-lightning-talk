@@ -45,3 +45,5 @@ If I knew what I was doing with Git I'd incorporate `shower` and the `ribbon` th
 ## Supporting documentation
 
 The slides include a few speaker notes.
+
+[the slides]: https://apetro.github.io/github-pages-lightning-talk/
