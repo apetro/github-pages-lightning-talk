@@ -13,9 +13,9 @@ There are two things here in this README.
 
 ### Examples in Apereo
 
-+ apereo.github.io blog
-+ oaeproject.org
-+ early progress on a new uPortal manual
++ [apereo.github.io blog][] ([source][apereo.github.io source])
++ [oaeproject.org][] ([source][oaeproject.org source])
++ early progress on a [new uPortal manual][] ([source][new uPortal manual source])
 
 ### About GitHub Pages
 
@@ -47,3 +47,12 @@ If I knew what I was doing with Git I'd incorporate `shower` and the `ribbon` th
 The slides include a few speaker notes.
 
 [the slides]: https://apetro.github.io/github-pages-lightning-talk/
+
+[apereo.github.io blog]: https://apereo.github.io/
+[apereo.github.io source]: https://github.com/apereo/apereo.github.io
+
+[oaeproject.org]: http://oaeproject.org/
+[oaeproject.org source]: https://github.com/oaeproject/oaeproject.github.io
+
+[new uPortal manual]: https://jasig.github.io/
+[new uPortal manual source]: https://github.com/Jasig/uPortal/tree/master/docs
