@@ -27,6 +27,10 @@ GitHub Pages is a classy, SaaS implementation of the free and open source Jekyll
 
 This means you can run Jekyll locally instead, for development or even for production generation of your website.
 
+See also:
+
++ [Jekyll for Technical Documentation](https://www.youtube.com/watch?v=HR12JiUI2Zc) (YouTube video from JekyllConf)
+
 ### About Static Site Generators
 
 Jekyll is an implementation of the static site generator idea.
