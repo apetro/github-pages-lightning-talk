@@ -33,6 +33,6 @@
     "grunt-csso": "0.6.5",
     "grunt-contrib-watch": "0.5.3",
     "load-grunt-tasks": "0.4.0",
-    "grunt-bump": "0.0.13"
+    "grunt-bump": "0.8.0"
   }
 }
